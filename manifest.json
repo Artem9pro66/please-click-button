@@ -1,0 +1,36 @@
+{
+  "background_color": "#050507",
+  "description": "Send your thoughts directly to the creator in a beautiful and effortless way.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Please Click On The Button",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Click Button",
+  "start_url": "/",
+  "theme_color": "#7b6cff",
+  "icons": [
+    {
+      "src": "https://artem9pro66.github.io/icons/icon-192.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://og-image-placeholder.vercel.app/Please Click On The Button.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
